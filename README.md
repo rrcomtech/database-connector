@@ -19,7 +19,7 @@ Use prepared statements to prevent SQL injection. HIGH PRIORITY
 
 ## Lookup
 
-_ #### Class: `Database_Connection` _<br><br>
+### _Class: `Database_Connection`_
 #### `Constructor`: Expects 4 Parameters:
 `server`: String, server URI to connect to<br>
 `name`: String, username to log into the database<br>
