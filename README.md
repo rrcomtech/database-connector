@@ -1,4 +1,4 @@
-# Connects to a MySQLi database
+# Connects to a MySQL database
 
 ## Tested On
 
@@ -21,5 +21,10 @@ Use prepared statements to prevent SQL injection. HIGH PRIORITY
 
 #### Class: `Database_Connection`<br><br>
 Functions:<br>
-#### ``Constructor`: Expects 4 Parameters:
-``
+#### `Constructor`: Expects 4 Parameters:
+`server`: String, server URI to connect to
+`name`: String, username to log into the database
+`password`: String, password to log into the database
+`database`: String, name of the database to be used
+
+#### `getConnectionState()`
