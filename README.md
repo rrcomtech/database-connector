@@ -22,9 +22,9 @@ Use prepared statements to prevent SQL injection. HIGH PRIORITY
 #### Class: `Database_Connection`<br><br>
 Functions:<br>
 #### `Constructor`: Expects 4 Parameters:
-`server`: String, server URI to connect to
-`name`: String, username to log into the database
-`password`: String, password to log into the database
-`database`: String, name of the database to be used
+`server`: String, server URI to connect to<br>
+`name`: String, username to log into the database<br>
+`password`: String, password to log into the database<br>
+`database`: String, name of the database to be used<br>
 
 #### `getConnectionState()`
