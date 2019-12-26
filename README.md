@@ -2,7 +2,7 @@
 
 ## Tested On
 
-phpMyAdmin SQL Dump <br>
+phpMyAdmin SQL<br>
 version 4.7.4<br>
 
 Last Update: December 13, 2019<br>
