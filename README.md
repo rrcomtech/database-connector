@@ -13,10 +13,6 @@ PHP-Version: 7.2.0<br>
 
 This software is made to provide a safe PHP class to connect to an according MySQL database. An example is given in the file `test.php`.
 
-## TODO
-
-Use prepared statements to prevent SQL injection. HIGH PRIORITY
-
 ## Lookup
 
 ### Class: `Database_Connection`
